@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is Api Genaretor form all items ",
+  "main": "index.js",
+  "scripts": {
+    "devs": "json-server --watch db.json --port 5353"
+  },
+  "author": "raihan22",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

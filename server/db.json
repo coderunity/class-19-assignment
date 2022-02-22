@@ -1,0 +1,44 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "skill": "javascript developer"
+    },
+    {
+      "id": 2,
+      "skill": "Laravel developer"
+    },
+    {
+      "id": 3,
+      "skill": "PHP developer"
+    },
+    {
+      "id": 4,
+      "skill": "ISO developer"
+    },
+    {
+      "id": 5,
+      "skill": "Golang developer"
+    },
+    {
+      "id": 6,
+      "skill": "Wordpress developer"
+    }
+  ],
+  "developer": [
+    {
+      "id": 1,
+      "name": "Md Abu Raihan",
+      "email": "mdaburaihan1357@gmail.com ",
+      "photo": " https://developerraihan.com/wp-content/uploads/2021/10/MG_2165-01-1555x2048.jpeg",
+      "skillId": "5"
+    },
+    {
+      "id": 2,
+      "name": "Md Achem vai",
+      "email": "achem@gmail.com ",
+      "photo": "https://developerraihan.com/wp-content/uploads/2021/10/240637624_563925501515137_6582963699950076138_n.jpg",
+      "skillId": "1"
+    }
+  ]
+}
